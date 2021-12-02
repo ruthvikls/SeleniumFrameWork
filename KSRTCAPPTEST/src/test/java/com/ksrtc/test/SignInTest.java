@@ -10,7 +10,7 @@ public class SignInTest extends SuiteSetUp {
 
 	public void signInAsValidUser() {
 
-		signPage.signIn("ruthvikls@gmail.com", "Test@123");
+		signPage.signIn("ruthvikls@gmail.com", "Test@123"); // Sign in test
 
 	}
 
